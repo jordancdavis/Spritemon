@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/toolbar">
+        <file>icons/fillAllColor.png</file>
+        <file>icons/flipImmage.png</file>
+        <file>icons/mirror.png</file>
+        <file>icons/PaintDropper.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/eraser.png</file>
+        <file>icons/104-512.png</file>
+        <file>icons/cursor-512.png</file>
+        <file>icons/Eraser-512.png</file>
+        <file>icons/Exposure-512.png</file>
+        <file>icons/paint_bucket-512.png</file>
+        <file>icons/add.png</file>
+        <file>icons/cursor.png</file>
+        <file>icons/darken.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/draw.png</file>
+        <file>icons/lighten.png</file>
+        <file>icons/newImage.png</file>
+        <file>icons/paintbucket1.png</file>
+        <file>icons/paintbucket2.png</file>
+        <file>icons/pallet.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/pencile.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/text.png</file>
+        <file>icons/tool.png</file>
+        <file>icons/trash.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/paint-brush-512.png</file>
+    </qresource>
+</RCC>
